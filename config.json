@@ -1,0 +1,3 @@
+{
+  "token": "${process.env.token}"
+}
